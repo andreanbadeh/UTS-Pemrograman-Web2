@@ -42,7 +42,7 @@ Masalah utama:
   - Tidak ada validasi
   - Tidak ada pemisahan antara data dan query
 
-![gambar(https://github.com/andreanbadeh/UTS-Pemrograman-Web2/blob/b18780f5f583f63d74c9ad2b4c798fbc8bc5b9b0/gambar/2.jpg)
+![gambar](https://github.com/andreanbadeh/UTS-Pemrograman-Web2/blob/b18780f5f583f63d74c9ad2b4c798fbc8bc5b9b0/gambar/2.jpg)
 
 Gambar 2. Percobaan login dengan data salah
 
@@ -61,7 +61,7 @@ AND password=’bebas’;)
 
 Tanda — berfungsi sebagai komentar, sehingga bagian password diabaikan.
 
-gambar
+![gambar](https://github.com/andreanbadeh/UTS-Pemrograman-Web2/blob/c0a59cc93d446366e9b2310fc4d91a0b2f25309d/gambar/3.jpg)
 
 Gambar 3. Login berhasil menggunakan SQL Injection (mode rentan)
 
