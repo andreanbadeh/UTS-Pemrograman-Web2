@@ -42,7 +42,8 @@ Masalah utama:
   - Tidak ada validasi
   - Tidak ada pemisahan antara data dan query
 
-gambar
+![gambar(https://github.com/andreanbadeh/UTS-Pemrograman-Web2/blob/b18780f5f583f63d74c9ad2b4c798fbc8bc5b9b0/gambar/2.jpg)
+
 Gambar 2. Percobaan login dengan data salah
 
 Fase 2: Eksploitasi SQL Injection
