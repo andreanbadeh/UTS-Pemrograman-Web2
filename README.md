@@ -127,3 +127,7 @@ https://www.php.net/manual/en/mysqli.prepare.php
 
 - MDN Web Docs — Web Security
 https://developer.mozilla.org/en-US/docs/Web/Security
+
+# Cek Plagiasi
+
+![gambar](https://github.com/andreanbadeh/UTS-Pemrograman-Web2/blob/b9b62bab854ee4513ea06f7d3218bd35720eed94/gambar/Screenshot%20from%202026-04-30%2011-04-11.png)
