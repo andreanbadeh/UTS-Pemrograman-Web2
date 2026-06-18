@@ -114,7 +114,7 @@ SQL Injection terjadi bukan karena teknik hacker yang rumit, tetapi karena kesal
 
 Prinsip penting yang harus diingat: “Never Trust User Input.” Dengan menggunakan prepared statement dan validasi input, kita bisa mencegah celah ini secara efektif.
 
-Referensi
+# Referensi
 
 - OWASP — SQL Injection
 https://owasp.org/www-community/attacks/SQL_Injection
