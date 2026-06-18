@@ -20,7 +20,8 @@ Jika tidak ditangani dengan benar, serangan ini bisa:
   - Mengubah atau menghapus isi database
 
 Fase 1: Membangun Sistem Login
-gambar
+
+![gambar](https://github.com/andreanbadeh/UTS-Pemrograman-Web2/blob/a9fbab98ae9d2173aa97b87fccc62c87770cee21/gambar/1.jpg)
 Gambar 1. Tampilan awal halaman login
 
 Saya membuat sistem login sederhana menggunakan PHP dan MySQL yang berjalan di Ubuntu. Dalam kode ini, saya menambahkan variabel $mode untuk menentukan apakah sistem berjalan dalam kondisi rentan atau aman.
