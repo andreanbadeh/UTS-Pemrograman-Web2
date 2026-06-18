@@ -76,7 +76,7 @@ Bahkan sistem menampilkan:
 
 Ini membuktikan bahwa sistem benar-benar bisa ditembus hanya dengan manipulasi input.
 
-gambar
+![gambar](https://github.com/andreanbadeh/UTS-Pemrograman-Web2/blob/918c80a137074b5947a2dff216b56359a78b2d0d/gambar/4.jpg)
 
 Gambar 4. Halaman dashboard setelah berhasil login
 
